@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simulador de Partidas</string>
+    <string name="cd_simulateButton">Botão de simulação de partidas</string>
+    <string name="cd_Imagem_do_time_da_casa">Imagem do time da casa</string>
+    <string name="cd_Imagem_do_time_visitante">Imagem do time visitante</string>
+    <string name="txt_versus">X</string>
 </resources>

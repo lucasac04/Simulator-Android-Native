@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Matches simulator</string>
+    <string name="cd_simulateButton">Matches Simulator Button</string>
+    <string name="cd_Imagem_do_time_da_casa">Home Team Image</string>
+    <string name="cd_Imagem_do_time_visitante">Away Team Image</string>
+    <string name="txt_versus" translatable="false">X</string>
 </resources>
