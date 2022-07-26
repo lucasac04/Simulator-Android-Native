@@ -58,7 +58,7 @@
             tools:text="TextView" />
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/tvScoreHome"
+            android:id="@+id/tv_home_team_score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/margin_default"
@@ -74,13 +74,13 @@
             android:layout_height="wrap_content"
             android:text="@string/txt_versus"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-            app:layout_constraintBottom_toBottomOf="@+id/tvAwayScoreTeam"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_away_team_score"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/tvAwayScoreTeam" />
+            app:layout_constraintTop_toTopOf="@+id/tv_away_team_score" />
 
         <com.google.android.material.textview.MaterialTextView
-            android:id="@+id/tvAwayScoreTeam"
+            android:id="@+id/tv_away_team_score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="@dimen/margin_default"
