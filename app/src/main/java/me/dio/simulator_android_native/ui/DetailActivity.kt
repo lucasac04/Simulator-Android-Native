@@ -1,11 +1,10 @@
 package me.dio.simulator_android_native.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import me.dio.simulator_android_native.databinding.ActivityDetailBinding
 import me.dio.simulator_android_native.domain.Match
-import me.dio.simulator_android_native.domain.Team
 
 class DetailActivity : AppCompatActivity() {
 

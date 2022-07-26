@@ -4,23 +4,20 @@ import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.os.Bundle;
 
-import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.google.android.material.snackbar.Snackbar;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
 import me.dio.simulator_android_native.R;
-import me.dio.simulator_android_native.domain.Match;
-import me.dio.simulator_android_native.ui.adapter.MatchesAdapter;
 import me.dio.simulator_android_native.data.MatchesApi;
 import me.dio.simulator_android_native.databinding.ActivityMainBinding;
 import me.dio.simulator_android_native.domain.Match;
+import me.dio.simulator_android_native.ui.adapter.MatchesAdapter;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
