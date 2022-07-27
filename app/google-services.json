@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638991246218",
+    "project_id": "matches-simulator-lucas",
+    "storage_bucket": "matches-simulator-lucas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638991246218:android:5bc8ad76d13af97e439e73",
+        "android_client_info": {
+          "package_name": "me.dio.simulator_android_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638991246218-vb4v17kfqphcfaida82fv886vrvs38ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86TpUwn0mQmbTV3QSZAuigrIilLu9UWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638991246218-vb4v17kfqphcfaida82fv886vrvs38ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
